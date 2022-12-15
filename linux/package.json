@@ -1,0 +1,9 @@
+{
+    "description": "Open source cross platform flash program for the STM32 ARM microcontrollers using the built-in ST serial bootloader over UART or I2C",
+    "name": "tool-stm32flash",
+    "system": [
+        "linux_x86_64"
+    ],
+    "url": "https://sourceforge.net/projects/stm32flash/",
+    "version": "0.8-beta1.1"
+}
